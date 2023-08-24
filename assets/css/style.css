@@ -1,9 +1,31 @@
-a{
-background-color:orange;
-position: relative;
+/*ajout et modification réalisé par Dev2 */
+
+
+
+h4 {
+    background-color: white;
+    padding: 5px;
+    position: absolute;
+    top: 0;
+    left: 30px
 }
-img{
+
+img {
     width: 300px;
 
-    
+
+}
+
+p {
+    background-color: darkgreen;
+    padding: 5px;
+    position: absolute;
+    top: 150px;
+    left: 220px
+}
+
+img {
+    width: 300px;
+
+
 }
